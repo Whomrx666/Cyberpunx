@@ -9,7 +9,6 @@ Cyberpunx is the most complete hacking tool and can be run on Termux or Kali Lin
 $ pkg update -y && pkg upgrade -y
 $ apt update -y && apt upgrade -y
 $ pkg install git
-$ pkg install python -y
 $ git clone https://github.com/Whomrx666/Cyberpunx.git
 $ cd Cyberpunx 
 $ bash Cyberpunx.sh
