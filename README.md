@@ -12,7 +12,7 @@ $ pkg install git
 $ pkg install python -y
 $ git clone https://github.com/Whomrx666/Cyberpunx.git
 $ cd Cyberpunx 
-$ python3 Cyberpunx.py
+$ bash Cyberpunx.sh
 ```
 
 ## Instructions
